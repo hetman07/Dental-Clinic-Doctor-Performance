@@ -2,7 +2,7 @@
 
 Analysis of a simulated dental clinic over its first 12 months: rebuilding the financial report, finding why the clinic is unprofitable, evaluating doctors and forecasting the next quarter (Q5).
 
-- 📊 **Analysis:** [Google Sheets](https://docs.google.com/spreadsheets/d/1HirgSGmQyDkyut0Tbyt33bY2YiRJNPQ64lCFjXsM1eM/edit?usp=sharing)
+- 📊 **Analysis:** [Google Sheets](https://docs.google.com/spreadsheets/d/1nBxaIzVmdQDiFV2SsiFZGGmtnVKa6qiqTSpfbhRSnW0/edit?gid=1691597888#gid=1691597888)
 - 📈 **Dashboard:** [Google Sheets](https://docs.google.com/spreadsheets/d/1nBxaIzVmdQDiFV2SsiFZGGmtnVKa6qiqTSpfbhRSnW0/edit?usp=sharing)
 - 🎞️ **Presentation:** [Google Slides](https://docs.google.com/presentation/d/1qiJ3AAICLfp9Nr5oGQCsy61osObyi1qwvCFCDVj3DdY/edit?usp=sharing) · [PDF version](Dental_Clinic_Project_Hetman.pdf)
 
